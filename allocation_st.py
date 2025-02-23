@@ -1,7 +1,5 @@
 import streamlit as st
 import pandas as pd
-import os
-import win32com.client
 from termcolor import colored
  
 # Function to scrape data from an Excel sheet
